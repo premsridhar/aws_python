@@ -10,3 +10,4 @@ it has the following Features
  - list Buckets
  - List contents of a bucket
  - Set up and configure s3 bucket
+ - Sync Directory Tree to s3 bucket
